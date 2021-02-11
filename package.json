@@ -12,7 +12,8 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "forestry": "gatsby develop -p 8080 -H 0.0.0.0"
   },
   "dependencies": {
     "gatsby": "^2.32.3",
