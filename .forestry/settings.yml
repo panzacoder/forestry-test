@@ -19,7 +19,7 @@ build:
 sections:
   - type: directory
     path: src/content/posts
-    label: Posts
+    label: Blog Posts
     create: documents
     match: "**/*"
     templates:
