@@ -24,5 +24,13 @@ fields:
   template: call-to-action
   label: CTA
   description: Call to action
+- name: sections
+  type: blocks
+  template_types:
+  - call-to-action
+  config:
+    min: 
+    max: 
+  label: Sections
 pages:
 - src/content/posts/test-blog-1.md
