@@ -18,16 +18,6 @@ fields:
   description: ''
   config:
     required: true
-- name: body
-  type: textarea
-  default: ''
-  config:
-    required: true
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Body
-  description: This is the body of the blog post.
 - name: cta
   type: include
   config: {}
