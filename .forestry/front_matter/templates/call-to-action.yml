@@ -1,4 +1,14 @@
 ---
 label: Call to Action
 hide_body: true
-fields: []
+fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: Text
+- name: to
+  type: text
+  config:
+    required: false
+  label: Link
