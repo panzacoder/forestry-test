@@ -33,5 +33,6 @@ fields:
   config: {}
   template: call-to-action
   label: CTA
+  description: Call to action
 pages:
 - src/content/posts/test-blog-1.md
