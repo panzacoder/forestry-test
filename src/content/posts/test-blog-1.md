@@ -26,6 +26,16 @@ body: "    # Non inpensior sua\n    \n    ## Est nota parat\n    \n    Lorem mar
   absistite [magna](http://fuitnam.com/)."
 text: ''
 to: ''
+sections:
+- template: call-to-action
+  text: ''
+  to: ''
+- template: call-to-action
+  text: ''
+  to: ''
+- template: call-to-action
+  text: ''
+  to: ''
 
 ---
 \# Non inpensior sua
