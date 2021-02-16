@@ -30,12 +30,6 @@ sections:
 - template: call-to-action
   text: ''
   to: ''
-- template: call-to-action
-  text: ''
-  to: ''
-- template: call-to-action
-  text: ''
-  to: ''
 
 ---
 \# Non inpensior sua
